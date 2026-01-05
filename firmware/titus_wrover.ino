@@ -1,3 +1,16 @@
+/*
+ Project: TITUS WROVER Line Follower Robot
+ Controller: ESP32 WROVER
+ Features:
+ - PID-based line following
+ - Web-based real-time PID tuning
+ - Line-loss recovery
+ Author: Dheeraj T
+*/
+
+
+
+
 #include <Arduino.h>
 #include <WiFi.h>
 #include <AsyncTCP.h>
