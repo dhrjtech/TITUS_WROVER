@@ -1,6 +1,9 @@
 🤖 TITUS WROVER
 ESP32-Based Line Follower Robot with Real-Time PID Web Tuning
 
+![TITUS WROVER Robot](images/titus_bot.jpg)
+
+
 
 📌 Project Overview
 
@@ -29,6 +32,9 @@ Automatic line-loss detection and recovery
 Differential drive control using PWM
 
 🌐 Web Application Explanation
+
+![PID Web Dashboard](images/web_app.jpg)
+
 
 The ESP32 hosts a lightweight web application that can be accessed through a browser.
 
